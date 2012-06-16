@@ -39,13 +39,9 @@
   <header>
     {% block header %}{% endblock %}
   </header>
-  <div role="main">
-    <div class="row">
-    <div class="span6 offset3">
-      {% block main %}{% endblock %}
-    </div>
-    </div>
-  </div>
+
+  {% block main %}{% endblock %}
+
   <footer>
     {% block footer %}{% endblock %}
   </footer>
