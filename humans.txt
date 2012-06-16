@@ -1,18 +1,15 @@
-/* the humans responsible & colophon */
-/* humanstxt.org */
+# The humans responsible & technology colophon
+# humanstxt.org
 
 
-/* TEAM */
-  Creator: Chris Pearson
-  Site: www.chrispsn.com
-  Twitter: www.twitter.com/chrispsn
-  Location: Australia
+# TEAM
+  Chris Pearson -- Creator -- www.twitter.com/chrispsn
 
-/* THANKS */
+# THANKS
   Names (& URL):
   xx
 
-/* SITE */
+# TECHNOLOGY COLOPHON
   Standards: HTML5, CSS3
   Components: Modernizr, jQuery
   Software: Python 2.7, Django, Webfaction
