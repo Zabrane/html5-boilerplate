@@ -1,41 +1,15 @@
+# humanstxt.org/
 # The humans responsible & technology colophon
-# humanstxt.org
-
 
 # TEAM
-  Chris Pearson -- Creator -- www.twitter.com/chrispsn
+
+    <name> -- <role> -- <twitter>
 
 # THANKS
-  Names (& URL):
-  xx
+
+    <name>
 
 # TECHNOLOGY COLOPHON
-  Standards: HTML5, CSS3
-  Components: Modernizr, jQuery
-  Software: Python 2.7, Django, Webfaction
 
-
-
-                               -o/-
-                               +oo//-
-                              :ooo+//:
-                             -ooooo///-
-                             /oooooo//:
-                            :ooooooo+//-
-                           -+oooooooo///-
-           -://////////////+oooooooooo++////////////::
-            :+ooooooooooooooooooooooooooooooooooooo+:::-
-              -/+ooooooooooooooooooooooooooooooo+/::////:-
-                -:+oooooooooooooooooooooooooooo/::///////:-
-                  --/+ooooooooooooooooooooo+::://////:-
-                     -:+ooooooooooooooooo+:://////:--
-                       /ooooooooooooooooo+//////:-
-                      -ooooooooooooooooooo////-
-                      /ooooooooo+oooooooooo//:
-                     :ooooooo+/::/+oooooooo+//-
-                    -oooooo/::///////+oooooo///-
-                    /ooo+::://////:---:/+oooo//:
-                   -o+/::///////:-      -:/+o+//-
-                   :-:///////:-            -:/://
-                     -////:-                 --//:
-                       --                       -:
+    HTML5, CSS3
+    jQuery, Modernizr
